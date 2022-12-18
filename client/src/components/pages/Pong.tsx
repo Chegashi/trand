@@ -6,7 +6,7 @@ const Pong = () => {
   return (
     <>
     <div className='game-canvas'>
-      <Game width = "400" height="400" />
+      <Game width = "600" height="400" />
       </div>
     </>
   );
