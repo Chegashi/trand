@@ -1,0 +1,12 @@
+Backend 500 Error when sending a nickname that does not exist in db
+
+listToAddFriend
+Backend 500 error  : http://localhost:5000/player/listToAddFriend/4 
+                    -> Variable type issue 
+
+
+addMember
+Backend 500 error: http://localhost:5000/player/addMember/narjdal/isghioua 
+            -> Argument roomId: Got invalid value 'isghioua' on prisma.createOnePermission. Provided String, expected Int.
+
+

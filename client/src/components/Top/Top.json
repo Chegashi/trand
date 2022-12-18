@@ -1,0 +1,45 @@
+[
+    {
+      "_id": "0",
+      "index": 0,
+      "ProfilePic":"/images/narjdal.jpeg",
+      "TrophyPic": "/images/Top1.png",
+      "isActive": true,
+      "name": "narjdal",
+      "Rank":"1",
+      "TotalGames": "60",
+      "Victories": "50",
+      "winrate": "83.3%",
+      "OnlineIcon":"/images/téléchargement.png",
+      "OfflineIcon":"/images/inco.png"
+
+    },
+    {
+        "_id": "1",
+        "index": 1,
+        "ProfilePic":"/images/Accountlogo.jpeg",
+        "TrophyPic": "/images/Top2.jpeg",
+        "isActive": true,
+        "name": "testplayer",
+        "Rank":"2",
+        "TotalGames": "30",
+        "Victories": "11",
+        "winrate": "73.17%",
+        "OnlineIcon":"/images/téléchargement.png",
+        "OfflineIcon":"/images/inco.png"
+      },
+      {
+        "_id": "2",
+        "index": 2,
+        "ProfilePic":"/images/Accountlogo.jpeg",
+        "TrophyPic": "/images/Top3.jpeg",
+        "isActive": false,
+        "name": "mochegri",
+        "Rank":"3",
+        "TotalGames": "35",
+        "Victories": "25",
+        "winrate": "71.42%",
+        "OnlineIcon":"/images/téléchargement.png",
+        "OfflineIcon":"/images/inco.png"
+      }
+]

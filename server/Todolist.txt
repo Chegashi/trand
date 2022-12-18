@@ -1,0 +1,4 @@
+unshow blocked user msg in room;
+msg ila blocked; // msg must be hidden from blocked and muted users
+logout user from event;
+invite game;

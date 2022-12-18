@@ -1,0 +1,72 @@
+ let  text = ("http://localhost:5000/auth/2fa/verify");
+    const text = ("http://localhost:5000/player/listOfFriends");
+let endpoint = 'http://localhost:5000/auth/logout';
+
+  const text = "http://localhost:5000/player/2fa/enable/" ;
+  const text = "http://localhost:5000/player/2fa/disable/" ;
+	const text = ("http://localhost:5000/player/update/avatar");
+   let  text = ("http://localhost:5000/player/update/nickname" );
+   let endpoint = "http://localhost:5000/player/blockFriendship/"
+
+  const text = "http://localhost:5000/player/setAdmin/" + username + "/" + props.room.id;
+  const text = "http://localhost:5000/player/unsetAdmin/" + username + "/" + props.room.id;
+     let text = ("http://localhost:5000/player/muteMember/");
+
+     let text = ("http://localhost:5000/player/unmuteMember/");
+  const text = "http://localhost:5000/player/banMember/" + username + "/" + props.room.id;
+  const text = "http://localhost:5000/player/kickMember/" + username + "/" + props.room.id;
+  let text = ("http://localhost:5000/player/DeletePwdProtectedChatRoom/");
+    let text = ("http://localhost:5000/player/UpdatePwdProtectedChatRoom/");
+
+
+  const text = "http://localhost:5000/player/Permission/" + params.id;
+  const text = "http://localhost:5000/player/GetTypeOfRoom/" + params.id;
+  const text = "http://localhost:5000/player/joinDM/" + params.id;
+  const text = "http://localhost:5000/player/joinprotected/" + params.id;
+  const text = "http://localhost:5000/player/joinNonProtectedRoom/" + params.id;
+
+  const text = "http://localhost:5000/player/listOfMembers/" + props.room.id;
+  const text = "http://localhost:5000/player/getmessages/" + props.room.id;
+    let endpoint = 'http://localhost:5000/player/statusFriendship/' + friendName
+
+  const text = "http://localhost:5000/player/leaveRoom/" + props.room.id
+
+const text = ("http://localhost:5000/player/listToAddFriend/" + params.id);
+
+         text = ("http://localhost:5000/player/createChatRoom/Protected/");
+
+         text = ("http://localhost:5000/player/createChatRoom/Private/" );
+
+         text = ("http://localhost:5000/player/createChatRoom/Public/" );
+
+    const text = "http://localhost:5000/player/addMember/" + props.user.nickname + "/" + params.id
+
+      const text = "http://localhost:5000/player/joinRoom/" + props.room.id;
+
+  const text = "http://localhost:5000/player/listOfRooms"
+
+    let endpoint = "http://localhost:5000/player/acceptFriendship/"
+
+   let endpoint = "http://localhost:5000/player/blockFriendship/"
+
+    let endpoint = "http://localhost:5000/player/refuseFriendship/"
+
+          endpoint = "http://localhost:5000/player/requestFriendship/"
+
+          endpoint = "http://localhost:5000/player/unblockFriendship/";
+
+      let endpoint = 'http://localhost:5000/player/statusFriendship/'
+
+    const text = "http://localhost:5000/player/sendMessageButton/" + params.nickname;
+
+      let endpoint = 'http://localhost:5000/player/profile/?id=';
+
+  const endpoint = 'http://localhost:5000/auth/redirect'
+
+const endpoint = 'http://localhost:5000/player/myprofile'
+
+  let text = ("http://localhost:5000/player/joinProtectedRoom/");
+
+ let  text = ("http://localhost:5000/auth/2fa/verify");
+
+  const text = "http://localhost:5000/auth/2fa/QrCode" ;

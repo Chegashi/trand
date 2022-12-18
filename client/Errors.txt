@@ -1,0 +1,46 @@
+////////---------------------------------ERRORS-------------------///////////////////
+
+
+
+
+////////---------------------------------OK-------------------///////////////////
+OWNER : 
+BAN MEMBERS OK BAN ADMIN √
+KICK MEMBERS OK KICK ADMIN √
+SET ADMIN √
+UNSET ADMIN √
+Mute √
+unmute √ 
+
+{% endif %}
+
+ADMIN : 
+BAN MEMBERS OK CANT BAN  ADMIN  OR HIMSELF √ 
+KICK MEMBERS OK CANT KICK  ADMIN  OR HIMSELF √
+
+
+ADD FRIEND TO ROOM  √
+LEAVE ROOM √ 
+
+Update Room : 
+DELETE PASSWORD √ ( SET ROOM FROM PROTECTED TO PUBLIC √ )
+UPDATE PASSWORD √
+SET PASSWORD TO ROOM √ ( SET ROOM FROM PUBLIC TO PROTECTED O√K  )
+
+CHAT : 
+CHAT MESSAGES √ 
+BLOCKED MESSAGES DONT DISPLAY √ 
+
+
+JOIN ROOMS : 
+JOIN NON PROTECTED ROOM √
+ JOIN PROTECTED ROOM √
+
+ Mute 404 Error USER ID NOT FOUND  √
+
+JOIN DM ROOM 404  √
+
+IF OWNER N9DR NCKIKI/BAN  RASSI MN ROOM  √
+
+
+
